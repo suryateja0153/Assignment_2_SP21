@@ -377,7 +377,7 @@ namespace Assignment_2_SP21
             //Question1:
             Console.WriteLine("Question 1");
             int[] ar1 = { 2, 5, 1, 3, 4, 7 };
-            int n1 = 2;
+            int n1 = 3;
             ShuffleArray(ar1, n1);
             Console.WriteLine();
 
