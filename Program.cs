@@ -37,7 +37,6 @@ namespace Assignment_2_SP21
             }
             catch (Exception)
             {
-
                 throw;
             }
         }
